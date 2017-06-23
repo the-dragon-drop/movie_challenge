@@ -4,7 +4,7 @@
 ## INTRODUCTION
 -------------------------------------------
 
-It’s your first day on the job working for a small theater (lets call it...AMC River East). The multiplex contains multiple screens, each playing a different movie throughout the day. Managing the schedule can be a difficult task as there are staffing considerations with regard to setup, cleaning, projector operation, ticket sales and line management.
+It’s your first day on the job working for a small theater (lets call it...AMC right here in Chicago). The multiplex contains multiple screens, each playing a different movie throughout the day. Managing the schedule can be a difficult task as there are staffing considerations with regard to setup, cleaning, projector operation, ticket sales and line management.
 
 Mildred has been manually doing the schedule to make sure things run smoothly, but she’s planning to retire. Because the theatre is looking to add more screens, and possibly a second location, they’d like to design a system to handle the scheduling rather than rely on a person to do the job. Below are the rules Mildred provided upon being asked exactly how she schedules runtimes for each screen.
 
